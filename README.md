@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, world! 👋 🌍
+
+#About Me
+Hi there! I'm a Python developer with a background in aerospace engineering. I'm deeply passionate about data science and machine learning, and I love building innovative solutions that push the boundaries of what's possible.
+
 
 <!--
 **Rorjh/Rorjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
