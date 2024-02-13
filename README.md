@@ -1,6 +1,6 @@
 ### Hello, world! 👋 🌍
 
-##About Me
+### About Me
 Hi there! I'm a Python developer with a background in aerospace engineering. I'm deeply passionate about data science and machine learning, and I love building innovative solutions that push the boundaries of what's possible.
 
 
