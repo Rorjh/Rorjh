@@ -4,6 +4,8 @@ Hi there! I'm a Python developer with a background in aerospace engineering. I'm
 
 ### 🔭 Current Projects
 - [Fantasy Premier League Dashboard](https://fpl-analytics.onrender.com/): Interactive dashboard for FPL players stats comparison
+- [Movies Plot Chatbot](https://github.com/Rorjh/movies_chatbot): Retrieval Augmented Generation Chatbot based on movies plot dataset (Langchain, FAISS Vector Database, LLM)
+- [Short-term wind forecasting](https://github.com/Rorjh/wind_forecasting) Masters project - Computational Engineering - wind speed and direction predictions using neural networks
 
 <!--
 **Rorjh/Rorjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
