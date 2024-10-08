@@ -8,6 +8,7 @@ Hi there! I'm a Python developer with a background in aerospace engineering. I'm
 - [Movies Plot Chatbot](https://github.com/Rorjh/movies_chatbot): Retrieval Augmented Generation Chatbot based on movies plot dataset (Langchain, FAISS Vector Database, LLM)
 - [Short-term wind forecasting](https://github.com/Rorjh/wind_forecasting) Masters project - Computational Engineering - wind speed and direction predictions using neural networks
 - [Fingers Detection and Counting](https://github.com/Rorjh/fingers_counter) Fingers Detection and Counting using OpenCV
+- [Traffic Sign Classification App](https://github.com/Rorjh/traffic_sign_classification) Traffic Sign Classification App with Tensorflow and Streamlit
 
 <!--
 **Rorjh/Rorjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
