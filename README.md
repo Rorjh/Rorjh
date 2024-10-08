@@ -2,11 +2,12 @@
 
 Hi there! I'm a Python developer with a background in aerospace engineering. I'm deeply passionate about data science and machine learning, and I love building innovative solutions that push the boundaries of what's possible.
 
-### 🔭 Current Projects
+### 🔭 Personal Projects
 - [Fantasy Premier League Dashboard](https://fpl-analytics.onrender.com/): Interactive dashboard for FPL players stats comparison
 - [Mushrooms Edibility Predictor](https://huggingface.co/spaces/Rorjh/mushrooms): A ViT feature extractor computer vision model to classify images of mushrooms as edible, non-edible or toxic (Pytorch, Gradio, shared on Hugging Face Spaces)
 - [Movies Plot Chatbot](https://github.com/Rorjh/movies_chatbot): Retrieval Augmented Generation Chatbot based on movies plot dataset (Langchain, FAISS Vector Database, LLM)
 - [Short-term wind forecasting](https://github.com/Rorjh/wind_forecasting) Masters project - Computational Engineering - wind speed and direction predictions using neural networks
+- [Fingers Detection and Counting](https://github.com/Rorjh/fingers_counter) Fingers Detection and Counting using OpenCV
 
 <!--
 **Rorjh/Rorjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
