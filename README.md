@@ -1,6 +1,6 @@
 ### Hello, world! 👋 🌍
 
-Hi there! I'm a Python developer with a background in aerospace engineering. I'm deeply passionate about data science and machine learning, and I love building innovative solutions that push the boundaries of what's possible.
+Hi there! I'm a Data Scientist with a background in software development and aerospace engineering. I'm deeply passionate about data science and machine learning, and I love building innovative solutions that push the boundaries of what's possible.
 
 ### 🔭 Personal Projects
 - [Fantasy Premier League Dashboard](https://fpl-analytics.onrender.com/): Interactive dashboard for FPL players stats comparison
